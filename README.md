@@ -11,4 +11,6 @@
 - rollup
 
 
-TODO: cli 封装后发布
+# cli
+
+详见：https://github.com/Sunny-117/mini-template-cli
